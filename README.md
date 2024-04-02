@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, Tanishq Mishra This Side</h1>
 <h3 align="center">1 Line Of Code Please...</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishq-mi&label=Profile%20views&color=0e75b6&style=flat" alt="tanishq-mi" /> </p>
 
-<p align="left"> <a href="https://twitter.com/tanishq_mi" target="blank"><img src="https://img.shields.io/twitter/follow/tanishq_mi?logo=twitter&style=for-the-badge" alt="tanishq_mi" /></a> </p>
+
 
 - 🔭 I’m currently getting my hands dirty on **Web Development**
 
